@@ -13,6 +13,7 @@
 
 #cabecalho{
     height: 0px;
+	size:50%;
 }
 
 body, header, section, footer {
