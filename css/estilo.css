@@ -90,7 +90,7 @@ body { /*https://www.toptal.com/designers/subtlepatterns/  site para background*
     padding: 10px 0;
     display: block;
     float: left; /* posicionando minha logo para esquerda*/ 
-	size:10%;
+	width:10%;
 }
 
 #logo img {
